@@ -20,7 +20,7 @@ Each group member was responsible for one preprocessing technique:
 
 Member 1 (IT24610815): Discretization / Binning
 
-Member 2 (IT): Encoding Categorical Variables
+Member 2 (IT24104350): Encoding Categorical Variables
 
 Member 3 (IT24104025): Outlier Detection and Removal
 
